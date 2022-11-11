@@ -27,7 +27,7 @@ Hiçbir ifade kendi başına tanımsız değildir. Biz ancak onu tanımsız bır
             
         yada
 
-    - 0^0 = tanımsızdır (analiz).
+    - 0^0 = tanımsızdır (analizde).
     
  - 0/0 da tanımsızdır.
 ```
