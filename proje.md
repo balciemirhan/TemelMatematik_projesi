@@ -6,7 +6,8 @@ Bu projede benden istenilen sezgisel anlamaya dayalı bir blog gönderisi yazmam
 ```
 Örneğin ;                                         
                  
-0*3 = 0 tane 3'ü toplamak tanım gereği 0 dır. (işimize geldiği için)                               
+0*3 = 0 tane 3'ü toplamak tanım gereği 0 dır. (işimize geldiği için)
+
 3^0 = 0 tane 3'ü çarpmak tanım gereği 1 dir. (işimize geldiği için)  
 ```
 
