@@ -33,7 +33,7 @@ Hiçbir ifade kendi başına tanımsız değildir. Biz ancak onu tanımsız bır
 Bazı kitaplarda bu iki şekilde kabul görür sebebi ise (0^0) değeri'nin bazı konularda 1 yada tanımsız değerini alması işimize gelir.
  ```
 
-
+[Patika](https://app.patika.dev/emirhanbalci "profilim")
 
 
 
