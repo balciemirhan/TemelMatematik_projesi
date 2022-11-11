@@ -21,13 +21,13 @@ Bu projede benden istenilen sezgisel anlamaya dayalı bir blog gönderisi yazmam
 Hiçbir ifade kendi başına tanımsız değildir. Biz ancak onu tanımsız bırakırsak tanımsız olur.
     
 ```
-- Yalnıca bir istisnai durum vardır :
+- Yalnıca bir istisnai durumu vardır :
 
     - 0^0 = 1 (cebirde)
             
         yada
 
-    - 0^0 = tanımsızdır. (analiz)
+    - 0^0 = tanımsızdır (analiz).
     
  - 0/0 da tanımsızdır.
 ```
