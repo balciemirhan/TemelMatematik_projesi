@@ -1,5 +1,5 @@
 # 0! = 1(?)
-Bu projede benden istenilen sezgisel anlamaya dayalı bir blog gönderisi yazmam isteniyordu. Seçmiş olduğum 0! = 1 durumu'nun, sezgisel çözümlemesini aşağıda bulabilirsiniz.
+Bu projede benden istenilen sezgisel anlamaya dayalı bir blog gönderisi yazmam isteniyordu. Seçmiş olduğum 0! = 1 durumu'nun, sezgisel yaklaşımını aşağıda bulabilirsiniz.
 ## 0! = 1'in  ispatlanması :
 
 ###  0! = 1(?) 0 tane sayı vardır nasıl çarpabiliriz ?                     
